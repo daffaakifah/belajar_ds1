@@ -128,6 +128,8 @@ Rekomendasi action items untuk mengurangi attrition dan meningkatkan retensi kar
 Karyawan yang sering lembur berisiko lebih tinggi untuk keluar. Perusahaan dapat menawarkan pelatihan manajemen dan efisiensi waktu.
 2. Tinjau Struktur Gaji <br>
 Gaji yang rendah meningkatkan risiko attrition. Pastikan struktur gaji kompetitif dan tambahkan insentif atau bonus untuk meningkatkan kepuasan finansial karyawan. <br>
+3. Tinjau Survei Kepuasan Kerja dan Lingkungan <br>
+Meninjau ulang apakah parameter yang ditanyakan sudah sesuai dengan kerja dan kepuasan karyawan.
 3. Optimalkan Beban Kerja dan Pengembangan Karir <br>
 Seimbangkan beban kerja dan berikan peluang pengembangan serta promosi internal agar karyawan tidak merasa stagnan dan lebih termotivasi untuk bertahan.
 4. Implementasi Model Prediktif untuk Pemantauan  <br>
