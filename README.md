@@ -125,9 +125,9 @@ Model yang digunakan ini unggul dalam mengenali karyawan yang tidak keluar (kela
 
 ### Rekomendasi Action Items 
 Rekomendasi action items untuk mengurangi attrition dan meningkatkan retensi karyawan:
-1, Kurangi Lembur yang Berlebihan <br>
+1. Kurangi Lembur yang Berlebihan <br>
 Karyawan yang sering lembur berisiko lebih tinggi untuk keluar. Perusahaan dapat menawarkan pelatihan manajemen dan efisiensi waktu.
-2. Tinjau Struktur Gaji
+2. Tinjau Struktur Gaji <br>
 Gaji yang rendah meningkatkan risiko attrition. Pastikan struktur gaji kompetitif dan tambahkan insentif atau bonus untuk meningkatkan kepuasan finansial karyawan. <br>
 3. Optimalkan Beban Kerja dan Pengembangan Karir <br>
 Seimbangkan beban kerja dan berikan peluang pengembangan serta promosi internal agar karyawan tidak merasa stagnan dan lebih termotivasi untuk bertahan.
