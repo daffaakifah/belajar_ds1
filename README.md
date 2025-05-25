@@ -114,8 +114,7 @@ Model yang digunakan menggunakan algoritma Random Forest mneghasilkan akurasi 0.
 Beberapa penting yang dihasilkan dari pemodelan:
 - OverTime (Lembur) adalah faktor paling signifikan yang memengaruhi attrition. Karyawan yang sering lembur memiliki risiko keluar yang jauh lebih tinggi, menandakan tekanan kerja yang berkontribusi pada keputusan mereka.
 - MonthlyIncome (Gaji Bulanan) yang rendah, usia muda, dan TotalWorkingYears (lama bekerja secara keseluruhan) yang pendek juga meningkatkan kemungkinan karyawan untuk keluar.
-- Faktor lain seperti YearsAtCompany (lama bekerja di perusahaan saat ini), YearsInCurrentRole (lama di posisi saat ini), dan - 
-- YearsWithCurrManager (lama bekerja dengan manajer saat ini) juga berpengaruh, meskipun tidak dominan.
+- Faktor lain seperti YearsAtCompany (lama bekerja di perusahaan saat ini), YearsInCurrentRole (lama di posisi saat ini), dan YearsWithCurrManager (lama bekerja dengan manajer saat ini) juga berpengaruh, meskipun tidak dominan.
 - Distribusi attrition menunjukkan bahwa kelompok usia 25–35 tahun dan karyawan dengan status pernikahan single memiliki tingkat attrition tertinggi (sekitar 54,9%).
 - Posisi dengan tingkat jabatan rendah hingga menengah (Job Level 1 dan 2) serta tingkat kepuasan kerja dan keterlibatan kerja yang rendah juga berkorelasi dengan risiko attrition yang lebih tinggi.
 - Semakin tinggi usia, pendapatan, dan lama bekerja di perusahaan, semakin kecil kemungkinan karyawan keluar, menandakan pentingnya strategi retensi untuk karyawan senior dan berpengalaman.
