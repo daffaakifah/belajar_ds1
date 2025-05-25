@@ -104,7 +104,7 @@ Beberapa faktor utama yang berpengaruh signifikan terhadap attrition adalah:
 Model yang digunakan menggunakan algoritma Random Forest mneghasilkan akurasi 0.8679, dengan hasil prediksi sebagai berikut: <br>
 ![image](https://github.com/user-attachments/assets/a3b1a6b3-50d1-46ac-aafb-a5ad9302cfb0)
 
-#### Contoh tampilan hasil prediksi berdasarkan faktor di prediksi.py
+##### Contoh tampilan hasil prediksi berdasarkan faktor di prediksi.py
 ![image](https://github.com/user-attachments/assets/a2310b82-8a4a-433c-85f1-ee869d4a0be2)
 ![image](https://github.com/user-attachments/assets/12893b77-0e0c-4afb-91c3-8e4f9e9d239f)
 ![image](https://github.com/user-attachments/assets/8ec26f35-3adf-4afb-8879-d9db8d9c9523)
